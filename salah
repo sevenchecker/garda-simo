@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mohamed Garda | Pentesting Portfolio</title>
+  <style>
+    body {
+      background:#0f172a;
+      color:#e5e7eb;
+      font-family: Arial;
+      padding:40px;
+    }
+    h1 { color:#38bdf8; }
+    .card {
+      background:#020617;
+      padding:20px;
+      margin:20px 0;
+      border-radius:10px;
+    }
+    a { color:#22d3ee; }
+  </style>
+</head>
+<body>
+
+<h1>Mohamed Garda</h1>
+<p>Cyber Security | Pentesting | System & Network Admin</p>
+
+<div class="card">
+  <h2>🔐 Pentesting Projects</h2>
+  <ul>
+    <li>Active Directory Attack Lab</li>
+    <li>Web Pentesting (DVWA)</li>
+    <li>Red Team Simulation</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h2>📞 Contact</h2>
+  <p>📱 0657913692</p>
+  <p>📧 salahzine920@gmail.com</p>
+  <p>GitHub: <a href="https://github.com/sevenchecker">sevenchecker</a></p>
+</div>
+
+</body>
+</html>
